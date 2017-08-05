@@ -12,8 +12,15 @@
         <poi_version>3.9</poi_version>
     </properties>
 
-    <!--poi-->
+
     <dependencies>
+        <!--commons-->
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.6</version>
+        </dependency>
+        <!--poi-->
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>

@@ -3,6 +3,7 @@ package com.file;
 import java.io.File;
 
 /**
+ * 文件工具类
  * @author fangxin
  * @date 2017/6/25.
  */
